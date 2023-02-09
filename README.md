@@ -2,7 +2,7 @@
 
 link: https://bagse.github.io/Cocktail-App/
 
-# Cocktail-App
+# Cocktail App
 
 Proyecto personal
 
